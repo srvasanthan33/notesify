@@ -2,7 +2,7 @@
     display: grid;
     gap: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    margin: 10px;
+
 
 }
 
@@ -33,4 +33,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.note.new {
+    background-color: rgb(145, 224, 198);
 }

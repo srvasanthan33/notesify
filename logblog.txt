@@ -1,0 +1,1 @@
+oke i have created a add Note component, so practice with styling that will 
