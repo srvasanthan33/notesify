@@ -38,3 +38,9 @@
 .note.new {
     background-color: rgb(145, 224, 198);
 }
+
+.note-textarea {
+    border: none;
+    outline: none;
+    background-color: rgb(145, 224, 198);
+}
